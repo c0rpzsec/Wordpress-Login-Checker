@@ -4,6 +4,7 @@
 WP Checker will Get 
 woocommerce logins
 Plugin-install logins
+WP File Manager logins
 SMTP-Plugins logins
 
 
