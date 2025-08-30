@@ -20,5 +20,5 @@ Run: Wp-Checker.py
 ```
 
 
-[![](https://i.ibb.co/60j4VVCp/wp.png)](https://www.youtube.com/watch?v=fA7KvVqJKDM)
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/zVqSjjvL/wp.png)](https://www.youtube.com/watch?v=fA7KvVqJKDM)
 
